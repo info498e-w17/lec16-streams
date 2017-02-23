@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "build/",
+        "alwaysStrict": true,
+        "compileOnSave":false
+    },
+    "exclude": [
+        "node_modules",
+        "**/ants/*.ts"
+    ]
+}
